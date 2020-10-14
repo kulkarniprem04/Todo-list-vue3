@@ -1,4 +1,4 @@
-# vue-todo-app
+# A simple vue-todo-app uing vue3 composition API
 
 ## Project setup
 ```
